@@ -13,7 +13,7 @@ Hệ thống này hi vọng có thể tiết kiệm tối đa thời gian đặt
 * [Phần mềm quản lý các các của hàng trong hệ thống](https://github.com/dogsteven/food-court-manager)
 
 * [Phần mềm quản lý tại của hàng](https://github.com/dogsteven/food-court-management)
-### Đây là phần mềm dành cho user
+### Đây là phần mềm dành người quản lý các của hàng
 > Hãy làm theo các bước sau để cài đặt 
 ```bash
 git clone github.com/dogsteven/food-court-manager
